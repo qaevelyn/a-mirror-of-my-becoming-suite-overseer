@@ -1,4 +1,4 @@
-# A Mirror of My Becoming™ — Suite: Overseer
+# A Mirror of My Becoming™ — Suite: Overseer™
 
 The dispatcher that treats failure as the default condition.
 
