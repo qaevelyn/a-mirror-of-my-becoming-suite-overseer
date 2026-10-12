@@ -17,5 +17,5 @@ keywords:
   - resilience
   - sovereign AI
 abstract: "Tier-authority orchestrator: canon questions answered directly from authoritative registries with no model in the loop; corpus questions answered by five workers under visible RRF quorum with adaptive threat-level armor. Built on hardware that fails definitely."
-version: v1.0.0
+version: v1
 date-released: "2026-10-11"
