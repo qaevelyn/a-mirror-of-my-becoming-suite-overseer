@@ -2,6 +2,9 @@
 
 The dispatcher that treats failure as the default condition.
 
+> **White paper:** [Who Decides When the Model Lies — The Quorum Architecture](https://qaevelyn.github.io/white-papers/who-decides-when-the-model-lies/) — the documented model lie that produced this orchestrator: the quorum table, the canon tier, the armor.
+
+
 An orchestrator for a local-first RAG archive: five workers (three vector collections, direct SQLite, and a canon-registry reader), reciprocal-rank fusion with a visible quorum table, an adaptive threat-level armor system (GREEN/ELEVATED/RED), checkpoint worker pairs, an advancing heartbeat, atomic state-file resume, and a tier system where the registry — never the model — answers factual questions.
 
 ## The failure doctrine
